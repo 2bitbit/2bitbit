@@ -1,7 +1,8 @@
-- 👀
-- 👋 Hi, I’m @2bitbit
+# 你好，我是 2bitbit 👋
 
-<!---
-2bitbit/2bitbit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 关于我
+- 🌱 我正在学习 AI （最热爱且唯一热爱的事情）
+- 👯 永远随时极度欢迎任何：Fork，PR，Issue，...
+
+## 技能与工具
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
