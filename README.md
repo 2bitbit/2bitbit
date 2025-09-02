@@ -1,5 +1,2 @@
-## 你好，我是 2bitbit 👋
-
-关于我：
-- 🌱 我正在学习 AI （最热爱的事情）
-- 👯 永远随时极度欢迎任何：Fork，PR，Issue，...
+- `git blame prob me --soft` 🥺
+- 什么？`--soft` 不存在？ 😭
